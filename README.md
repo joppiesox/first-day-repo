@@ -1,2 +1,2 @@
-# first-day-demo
+# first-day-repo
 activity 4
